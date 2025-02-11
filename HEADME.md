@@ -28,7 +28,7 @@ git commit -m  " mensagem"
 ## 5. Verificar o status do commit
 
 ```bash
-git commit -m  " mensagem" 
+git  status
 ```
 
 ### 6. subir alterações para(github)
